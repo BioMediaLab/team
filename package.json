@@ -1,0 +1,23 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "description": "Umaine BioMediaLab Team Members",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BioMediaLab/team.git"
+  },
+  "author": "noxplode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BioMediaLab/team/issues"
+  },
+  "homepage": "https://github.com/BioMediaLab/team#readme",
+  "dependencies": {
+    "next": "^1.1.2"
+  }
+}
